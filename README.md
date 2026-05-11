@@ -92,7 +92,9 @@ https://res.cloudinary.com/dvecouv3u/image/upload/q_auto/f_auto/v1778522280/ai_a
 
 # Project Screenshot
 
-![Project Screenshot](YOUR_SCREENSHOT_NAME.png)
+## Project Screenshot
+
+![Project Screenshot](Screenshot%20(231).png)
 
 ---
 
