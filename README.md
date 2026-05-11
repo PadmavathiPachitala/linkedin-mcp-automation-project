@@ -1,6 +1,5 @@
 # LinkedIn AI Post Generator using MCP
 
-> Built as part of the **MCP (Model Context Protocol) Workshop** conducted by **NxtWave**.
 
 ---
 
@@ -14,16 +13,7 @@ The workflow enables users to:
 - Attach images using Cloudinary
 - Preview posts before publishing
 - Automate LinkedIn content creation efficiently
-
----
-
-# Workshop Information
-
-- **Workshop:** MCP (Model Context Protocol) Workshop
-- **Conducted By:** NxtWave
-- **Project Type:** AI Workflow Automation
-- **Platform Used:** Cursor AI IDE
-
+- 
 ---
 
 # Features
