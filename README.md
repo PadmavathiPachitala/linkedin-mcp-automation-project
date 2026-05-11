@@ -100,13 +100,7 @@ https://res.cloudinary.com/dvecouv3u/image/upload/q_auto/f_auto/v1778522280/ai_a
 
 # LinkedIn Post
 
-Paste your LinkedIn post URL here.
-
-Example:
-
-https://www.linkedin.com/posts/your-post-link
-
----
+https://www.linkedin.com/posts/harshinipadmavathi_microsoftappliedskills-microsoftlearn-copilot-share-7459663665114427392-ivsN
 
 # Learning Outcomes
 
@@ -120,17 +114,13 @@ Through this project, I learned:
 - AI-assisted productivity tools
 - Cursor AI IDE integration
 
----
+# OUTPUT IMAGE 
 
-# Future Improvements
-
-- Multi-platform social media automation
-- Scheduled AI-generated posts
-- AI hashtag generation
-- Automated analytics workflows
-- Advanced AI automation pipelines
 
 ---
+
+
+
 
 # Author
 
